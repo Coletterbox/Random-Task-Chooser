@@ -4,11 +4,9 @@ function randomArrayItem(array) {
 
 // All the functionality of this page is copied from a different project I did a couple of days earlier, so some variable names etc. might seem irrelevant.
 const reasonsArray = [
-    // the specific languages I'm learning are redacted
-    "Learn language #1!",
-    "Learn language #2!",
-    // the specific instrument I'm currently working on is redacted
-    "Practise musical instrument #1!",
+    "Learn more of the language that you're currently learning!",
+    "Learn more of the other language that you're currently learning!",
+    "Practise your main musical instrument!",
     "Read!",
     "Tidy!",
     "Do some coding!",
