@@ -2,7 +2,7 @@
 
 ## https://coletterbox.github.io/Random-Task-Chooser/
 
-![](WoW-quest-marker-transparent.png)
+<img src="WoW-quest-marker-transparent.png" width="15" />
 
 Hi, Kayleigh! :hearts:
 
